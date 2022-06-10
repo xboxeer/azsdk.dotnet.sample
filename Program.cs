@@ -20,17 +20,17 @@ DeleteQueue(RESOURCE_GROUP_NAME, SERVICEBUS_NAMESPACENAME, SERVICEBUS_QUEUENAME)
 
 void CreateResourceGroup(string resourceGroupName)
 {
-
+    throw new NotImplementedException();
 }
 void CreateServiceBusQueue(string resourceGroupName, string serviceBusNamespaceName, string queueName)
 {
-
+    throw new NotImplementedException();
 }
 void ListAllQueue(string resourceGroupName, string serviceBusNamespaceName)
 {
-    
+    throw new NotImplementedException();
 }
 void DeleteQueue(string resourceGroupName, string serviceBusNamespaceName, string queueName)
 {
-    
+    throw new NotImplementedException();
 }
